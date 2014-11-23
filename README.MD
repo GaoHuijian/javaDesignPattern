@@ -28,29 +28,29 @@ java设计模式 design pattern
 JAVA 23种设计模式
 ---------------
 ###创建型模式
-	1、工厂模式[https://github.com/GaoHuijian/javaDesignPattern/tree/master/1.Factory/factorydemo](https://github.com/GaoHuijian/javaDesignPattern/tree/master/1.Factory/factorydemo)
-	2、抽象工厂模式
-	3、单例模式
-	4、建造者模式
-	5、原型模式
+1、[工厂模式](https://github.com/GaoHuijian/javaDesignPattern/tree/master/1.Factory/factorydemo)
+2、抽象工厂模式
+3、单例模式
+4、建造者模式
+5、原型模式
 ###结构型模式
-	6、桥接模式
-	7、适配器模式
-	8、装饰模式
-	9、组合模式
-	10、享元模式
-	11、外观模式
-	12、代理模式
+6、桥接模式
+7、适配器模式
+8、装饰模式
+9、组合模式
+10、享元模式
+11、外观模式
+12、代理模式
 
 ###行为模式
-	13、模版方法模式
-	14、策略模式
-	15、状态模式
-	16、观察者模式
-	17、备忘录模式
-	18、中介者模式
-	19、命令模式
-	20、访问者模式
-	21、职责链模式
-	22、迭代器模式
-	23、解释器模式
+13、模版方法模式
+14、策略模式
+15、状态模式
+16、观察者模式
+17、备忘录模式
+18、中介者模式
+19、命令模式	
+20、访问者模式
+21、职责链模式
+22、迭代器模式
+23、解释器模式
