@@ -28,7 +28,7 @@ java设计模式 design pattern
 JAVA 23种设计模式
 ---------------
 ###创建型模式
-	1、工厂模式
+	1、工厂模式[https://github.com/GaoHuijian/javaDesignPattern/tree/master/1.Factory/factorydemo](https://github.com/GaoHuijian/javaDesignPattern/tree/master/1.Factory/factorydemo)
 	2、抽象工厂模式
 	3、单例模式
 	4、建造者模式
